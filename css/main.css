@@ -1,5 +1,5 @@
 .text-primary {
-  color: #021F2B !important;
+  color: #80E88A !important;
 }
 
 /* Loading */
@@ -31,7 +31,7 @@
   -moz-border-radius: 50%;
   -webkit-border-radius: 50%;
   -o-border-radius: 50%;
-  background-color: #021F2B;
+  background-color: #80E88A;
   opacity: .6;
   position: absolute;
   top: 0;
@@ -165,7 +165,7 @@ label {
 }
 
 .test-app {
-  background-color: #80E88A;
+  background-color: #021F2B;
   /* Replace with your primary color */
   color: white;
   border: none;
@@ -268,7 +268,7 @@ label {
 }
 
 .submit-button {
-  background-color: #021F2B;
+  background-color: #80E88A;
   /* Replace with your primary color */
   color: white;
   border: none;
@@ -294,7 +294,7 @@ label {
 }
 
 .feedback-button {
-  background-color: #021F2B;
+  background-color: #80E88A;
   /* Replace with your primary color */
   color: white;
   /* Text color */
@@ -402,7 +402,7 @@ textarea {
 
 .feedback-form button {
   padding: 6px 10px;
-  background-color: #80E88A;
+  background-color: #021F2B;
   color: #fff;
   border: none;
   border-radius: 8px;
